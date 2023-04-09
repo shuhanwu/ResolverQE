@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="920521c4-6365-4927-a4d3-d4d46ae48151" name="Changes" comment="" />
+    <list default="true" id="920521c4-6365-4927-a4d3-d4d46ae48151" name="Changes" comment="Resolver QA Assessment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,8 +70,16 @@
       <workItem from="1680816512503" duration="16757000" />
       <workItem from="1680843495553" duration="6629000" />
       <workItem from="1680892138707" duration="12353000" />
-      <workItem from="1681059901500" duration="1916000" />
+      <workItem from="1681059901500" duration="2234000" />
     </task>
+    <task id="LOCAL-00001" summary="Resolver QA Assessment">
+      <created>1681062117755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681062117755</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +140,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Resolver QA Assessment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolver QA Assessment" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
