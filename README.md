@@ -33,3 +33,5 @@ Use the method to find the value of the cell at coordinates 2, 2 (staring at 0 i
 Assert that the value of the cell is "Ventosanzap"
 
 Copy git@github.com:shuhanwu/ResolverQE.git to IDE anc create a new project for execution
+
+Sample execution vedio for all test cases can be found https://studio.youtube.com/video/BEmRLgeHYVs/edit
