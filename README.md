@@ -34,5 +34,5 @@ Assert that the value of the cell is "Ventosanzap"
 
 Copy git@github.com:shuhanwu/ResolverQE.git to IDE anc create a new project for execution
 
-Sample execution vedio for all test cases can be found https://studio.youtube.com/video/BEmRLgeHYVs/edit
+Sample execution vedio for all test cases can be found https://youtu.be/BEmRLgeHYVs
 
